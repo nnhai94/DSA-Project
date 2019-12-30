@@ -1,5 +1,5 @@
 # Welcome to my `Heart Disease Prediction` project using Python
-##This is the submission for the DSA class project, taught by Dr. Lin Xie
+## This is the submission for the DSA class project, taught by Dr. Lin Xie
 
 In this project, I will use the available `heart-disease-uci` dataset and using it to train and test models using three different algorithms:
 1. XGB Classifier
